@@ -62,6 +62,11 @@
 
 -- COMMAND ----------
 
+-- MAGIC %python
+-- MAGIC print("I am awesome!")
+
+-- COMMAND ----------
+
 -- TODO
 <FILL-IN>
 

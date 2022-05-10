@@ -161,6 +161,11 @@ WHERE name LIKE "T%"
 
 -- COMMAND ----------
 
+-- MAGIC %python
+-- MAGIC print('I am awesom!')
+
+-- COMMAND ----------
+
 -- MAGIC %md
 -- MAGIC 
 -- MAGIC 
